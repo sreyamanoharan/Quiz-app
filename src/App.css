@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+    margin: 0;
+}
+
+.container-1{
+    width: 50%;
+    margin-left:350px;
+    margin-top:150px;
+    border:1px solid;
+    border-radius:20px;
+    padding:20px
+}
+
+.button-second{
+    display: flex;
+    flex-direction: column;
+    margin:7px
+}
+
+.bt-button{
+    margin: 5px;
+    width:90%;
+}
+
+.result{
+    width: 50%;
+    margin-left:350px;
+    margin-top:150px;
+    border:1px solid;
+    border-radius:20px;
+    padding:20px;
+    text-align: center;
+    height: 400px;
+    padding-top: 150px;
+}
